@@ -9,7 +9,8 @@ body{
  width:90%;
  margin:auto;
  height:120px;
- line-height:#417aa8;
+ line-height:120px;
+ background:#417aa8;
  color:#fff;
 }
 .jarak{
